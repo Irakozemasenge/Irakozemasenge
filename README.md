@@ -24,7 +24,7 @@ Je me spécialise dans la conception de **solutions intelligentes**, en particul
 ## 🚀 Projets majeurs
 
 - 🩺 [**Sania.bi**](https://sania.bi) : Assistant médical intelligent – IA conversationnelle pour la population burundaise  
-- - 🛰️ **Burundi en Temps Réel (BTR)** : Nous avons conçu plusieurs projets digitaux :  
+- 🛰️ **Burundi en Temps Réel (BTR)** : Nous avons conçu plusieurs projets digitaux :  
      Site web/ applications mobile **pour les 25 clints**, la digitalisation des écoles secondaires, la digitalisation du Tribunal de commerce, etc.
 
 - 🌐 **GlobiLinker** : Plateforme panafricaine pour l’éducation, la mobilité internationale et la digitalisation des services
