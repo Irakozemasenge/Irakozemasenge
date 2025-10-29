@@ -127,11 +127,7 @@ Experienced in **web development**, **e-payments**, and **international project 
 
 ---
 
-## 📚 References
-
-**Dr. UWIZEYE Abraham**  
-Dean, Faculty of Engineering Sciences, University of Burundi  
-📧 uwizeye.abraham@ub.edu.bi  
+## 📚 Reference
 
 **Dr. Jeremie NDIKUMAGENGE, PhD**  
 Lecturer and Researcher, University of Burundi  
